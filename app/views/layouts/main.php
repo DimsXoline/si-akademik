@@ -9,7 +9,7 @@
 <body class="bg-light">
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary mb-4">
         <div class="container">
-            <a class="navbar-brand" href="<?= $baseUrl ?>/">SI AKADEMIK - LOGIN</a>
+            <a class="navbar-brand" href="<?= $baseUrl ?>/">SI AKADEMIK UTAMA</a>
             <div class="navbar-nav ms-auto">
                 <a class="nav-link" href="<?= $baseUrl ?>/mahasiswa">Mahasiswa</a>
                 <a class="nav-link" href="<?= $baseUrl ?>/logout">Logout</a>
